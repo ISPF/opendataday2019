@@ -1,0 +1,12 @@
+ID;TableName;Theme;Titre;FileName;DatasetID;ResourceID
+1;vTourismeChiffresCles;Tourisme;Chiffres cles;Tourisme - Chiffres cles - 0001.csv;5c6f225f634f411aca138430;23cf4c37-9f31-47b6-b541-7b6dca71896a
+2;vEFT;Tourisme;Frequentation touristique;Tourisme - Frequentation touristique - 0002.csv.zip;5c6f225f634f411aca138430;b28eb1a5-574a-4368-8ed8-8eb3fd724c41
+3;vEDT;Tourisme;Enquête de dépenses touristiques;Tourisme - Depenses touristiques - 0003.csv;5c6f225f634f411aca138430;9f471caa-c649-43f9-a186-207641f1c59d
+4;vEST ;Tourisme;Enquête de satisfaction touristique;Tourisme - Satisfation touristique - 0004.csv;5c6f225f634f411aca138430;e0ba5d8b-db4f-4bef-9512-b5e1987abaf1
+5;vEFH ;Tourisme;Enquête de fréquentation hôtelière;Tourisme - Frequentation hotelliere - 0005.csv;5c6f225f634f411aca138430;068b6739-a43a-436f-819e-2015e24c4c8e
+6;vImportations ;Commerce exterieur;Importations en Polynésie française - 2018;Commerce exterieur - Importations - 0006.csv;5c6f5987634f41317c8a0f14;a2b00118-246f-40f0-a73b-778d8a6f82bd
+7;vExportations ;Commerce exterieur;Exportations en Polynésie française - 2018;Commerce exterieur - Exportations - 0007.csv;5c6f5987634f41317c8a0f14;389b419c-24ad-4fcf-b5c8-0a9c5ddbd548
+8;vEmploi ;Emploi;Emploi salarié en Polynésie française déclarés à la CPS;Emploi - Salaries - 0008.csv;5c70465f634f415791f4b236;ef929e4d-41d7-4c0d-b916-161aedf24481
+9;vRP2012 ;Recensement;Recensement de la population de Polynésie française 2012;Recensement - 2012 - 0009.csv;5c7047c7634f415b2f29ac53;3afae318-5d0b-4485-a165-5fe4818c912d
+10;vEBF;Budget des familles;Budget des familles 2015 en Polynésie française;Budget des familles - BDF - 0010.csv;5c6f5aca634f413183559350;7257a67b-5877-4269-8048-9af300eff14e
+11;;Tourisme;Série du nombre de touristes mensuels;Tourisme - Touristes mensuels - 0011.csv;5c6f225f634f411aca138430;1b32859d-e7e7-4f35-9054-2607840585b1
