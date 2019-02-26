@@ -16,6 +16,7 @@ Tableaux[i,]
 getTable(i)
 DataGouv_UpdateResource(i)
 DataGouv_UpdateMetaData(i, "title", Tableaux[i,Titre])
+DataGouv_UpdateMetaData(i, "description", "Exportations 2018 de la Polynésie française")
 
 
 ##VERBOSE
