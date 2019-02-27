@@ -3,6 +3,78 @@
     {
       "acronym": {},
       "badges": [],
+      "created_at": ["2019-02-27T21:47:03.190000"],
+      "deleted": {},
+      "description": ["Mon premier dataset"],
+      "extras": {},
+      "frequency": ["threeTimesADay"],
+      "frequency_date": {},
+      "id": ["5c76f747634f417c9c2f4853"],
+      "last_modified": ["2019-02-27T21:48:48.915000"],
+      "last_update": ["2019-02-27T21:47:13"],
+      "license": ["notspecified"],
+      "metrics": {
+        "discussions": [0],
+        "followers": [0],
+        "issues": [0],
+        "reuses": [0],
+        "views": [0]
+      },
+      "organization": {
+        "acronym": ["ISPF"],
+        "class": ["Organization"],
+        "id": ["56a29970c751df2a1cade714"],
+        "logo": ["https://static.data.gouv.fr/avatars/8e/ef397b5eba4e32947417fde6f35d84-original.png"],
+        "logo_thumbnail": ["https://static.data.gouv.fr/avatars/8e/ef397b5eba4e32947417fde6f35d84-100.png"],
+        "name": ["Institut de la statistique de la Polynésie française"],
+        "page": ["https://www.data.gouv.fr/fr/organizations/institut-de-la-statistique-de-la-polynesie-francaise/"],
+        "slug": ["institut-de-la-statistique-de-la-polynesie-francaise"],
+        "uri": ["https://www.data.gouv.fr/api/1/organizations/institut-de-la-statistique-de-la-polynesie-francaise/"]
+      },
+      "owner": {},
+      "page": ["https://www.data.gouv.fr/fr/datasets/demo-amphi-ccism/"],
+      "private": [false],
+      "resources": [
+        {
+          "checksum": {
+            "type": ["sha1"],
+            "value": ["c4977451a2ffd82c8d34b6e12aa736b95207f514"]
+          },
+          "created_at": ["2019-02-27T21:47:13.667000"],
+          "description": ["Liste de mes dataset"],
+          "extras": {},
+          "filesize": [1883],
+          "filetype": ["file"],
+          "format": ["csv"],
+          "id": ["e4fddb1e-8fec-456c-b55c-efd76de05448"],
+          "last_modified": ["2019-02-27T21:48:48.915000"],
+          "latest": ["https://www.data.gouv.fr/fr/datasets/r/e4fddb1e-8fec-456c-b55c-efd76de05448"],
+          "metrics": {
+            "views": [0]
+          },
+          "mime": ["text/csv"],
+          "preview_url": ["/tabular/preview/?url=https%3A%2F%2Fstatic.data.gouv.fr%2Fresources%2Fdemo-amphi-ccism%2F20190227-214845%2Ftableaux-copie.csv"],
+          "published": ["2019-02-27T21:47:13"],
+          "title": ["tableaux-copie.csv"],
+          "type": ["main"],
+          "url": ["https://static.data.gouv.fr/resources/demo-amphi-ccism/20190227-214845/tableaux-copie.csv"]
+        }
+      ],
+      "slug": ["demo-amphi-ccism"],
+      "spatial": {},
+      "tags": [
+        ["ispf"],
+        ["opendata"],
+        ["polynesie-francaise"],
+        ["tahiti"]
+      ],
+      "temporal_coverage": {},
+      "title": ["Demo Amphi CCISM"],
+      "uri": ["https://www.data.gouv.fr/api/1/datasets/demo-amphi-ccism/"]
+    },
+    {
+      "acronym": {},
+      "badges": [],
       "created_at": ["2019-02-22T20:04:39.175000"],
       "deleted": {},
       "description": ["A quoi sert le recensement ? A établir les populations légales.\n\n**Les populations légales**\nDe nombreux articles de codes ou réglementaires font référence à la population légale, c’est-à-dire au nombre d’habitants. Au niveau communal, la population légale a différentes conséquences :\n\n- le nombre de conseillers municipaux est fixé selon la tranche de taille de population à laquelle appartient la commune. En 2008, lors des  dernières élections municipales, le nombre de conseillers élus par commune a été défini sur la base des populations légales communales issues du recensement de 2007 ; \n- les indemnités des maires et de leurs adjoints sont établies en fonction de la taille en nombre d’habitants de la commune ;\n- la dotation de fonctionnement d’une commune est calculée à partir de sa population légale.\n\n\n**Le recensement est quinquennal depuis 2007 :**\nLa loi relative à la démocratie de proximité du 27 février 2002 a, dans ses articles consacrés au recensement de la population, instauré des recensements de la population tous les cinq ans en Polynésie française, ce qui n’était pas le cas auparavant ; les précédents recensements ont eu lieu en 1983, 1988, 1996 et 2002.\n\nLe décret n° 2012-636 du 3 mai 2012 paru au JORF n° 0106 du 5 mai 2012 (page 7976) organise le recensement 2012.\n\n**Mieux connaître la population de Polynésie française**\nLes pouvoirs publics et les collectivités utilisent les résultats du recensement pour déterminer les besoins dans différents domaines :\n- santé : implantation des unités de soins, de pharmaciens, équipement des dispensaires…\n- formation et emploi : construction de nouveaux établissements scolaires, équipements scolaires, aide à la formation des jeunes...\n- aménagement du territoire : construction de logements sociaux, résorption de l’habitat insalubre et rénovation de l’habitat ancien, équipements collectifs sociaux, culturels, sportifs…\n- aide aux familles : détermination des aides en fonction de la composition des ménages et de leurs conditions de vie.\nLes entreprises trouvent dans les statistiques issues du recensement les informations utiles à des études de marché pour installer des locaux et des activités, organiser un réseau commercial, orienter leur offre en fonction de l’évolution de la composition des ménages ou de leurs modes de vie.\n\nDe nombreux autres utilisateurs ont besoin de données sur la population dans le cadre de leur travail ou de leurs études : élus, syndicalistes, associations, chercheurs en sciences sociales, étudiants, simples particuliers.\n\n**Le recensement est confidentiel et obligatoire**\nPour établir le chiffre de la population légale, tout le monde doit être compté. C'est en vertu de la loi du 7 juin 1951 modifiée sur l'obligation, la coordination et le secret en matière de statistiques que le recensement est obligatoire.\n"],
@@ -231,7 +303,7 @@
       "frequency": ["monthly"],
       "frequency_date": ["2019-03-21T16:07:00"],
       "id": ["5c6f5987634f41317c8a0f14"],
-      "last_modified": ["2019-02-27T03:52:59.250000"],
+      "last_modified": ["2019-02-27T22:11:28.286000"],
       "last_update": ["2019-02-22T19:55:02"],
       "license": ["notspecified"],
       "metrics": {
@@ -283,26 +355,26 @@
         {
           "checksum": {
             "type": ["sha1"],
-            "value": ["52494f451f297e7469b423ca398bc10ae7df5990"]
+            "value": ["af4d61409410258ca6efcd2a07fc21a77ae89fd5"]
           },
           "created_at": ["2019-02-22T03:08:15.939000"],
-          "description": ["Exportations 2018 de la Polynésie française"],
+          "description": ["Exportations 2018  - Demo Amphi CCISM"],
           "extras": {},
-          "filesize": [382572],
+          "filesize": [329737],
           "filetype": ["file"],
           "format": ["csv"],
           "id": ["389b419c-24ad-4fcf-b5c8-0a9c5ddbd548"],
-          "last_modified": ["2019-02-27T03:52:59.250000"],
+          "last_modified": ["2019-02-27T22:11:28.146000"],
           "latest": ["https://www.data.gouv.fr/fr/datasets/r/389b419c-24ad-4fcf-b5c8-0a9c5ddbd548"],
           "metrics": {
             "views": [0]
           },
           "mime": ["text/csv"],
-          "preview_url": ["/tabular/preview/?url=https%3A%2F%2Fstatic.data.gouv.fr%2Fresources%2Fcommerce-exterieur-en-polynesie-francaise%2F20190227-035254%2Fcommerce-exterieur-exportations-0007.csv"],
+          "preview_url": ["/tabular/preview/?url=https%3A%2F%2Fstatic.data.gouv.fr%2Fresources%2Fcommerce-exterieur-en-polynesie-francaise%2F20190227-221127%2Fcommerce-exterieur-exportations-0007.csv"],
           "published": ["2019-02-22T03:08:15"],
-          "title": ["Exportations en Polynésie française - 2018"],
+          "title": ["commerce-exterieur-exportations-0007.csv"],
           "type": ["main"],
-          "url": ["https://static.data.gouv.fr/resources/commerce-exterieur-en-polynesie-francaise/20190227-035254/commerce-exterieur-exportations-0007.csv"]
+          "url": ["https://static.data.gouv.fr/resources/commerce-exterieur-en-polynesie-francaise/20190227-221127/commerce-exterieur-exportations-0007.csv"]
         }
       ],
       "slug": ["commerce-exterieur-en-polynesie-francaise"],
@@ -515,5 +587,5 @@
   "page": [1],
   "page_size": [20],
   "previous_page": {},
-  "total": [5]
+  "total": [6]
 }
