@@ -3,6 +3,10 @@ library(dbplyr)
 library(DBI)
 library(data.table)
 library(httr)
+library(ggplot2)
+
+
+Tableaux <- fread("files/Tableaux.csv", stringsAsFactors = F)
 
 DataGouv_ConfigureAPI <- function(APIURL, ORGANIZATIONID, APIKEY){
   APIURL <<- APIURL
@@ -12,10 +16,40 @@ DataGouv_ConfigureAPI <- function(APIURL, ORGANIZATIONID, APIKEY){
 
 DataGouv_GetDetailOrganisation <- function(){
   ispf <- GET(sprintf("%s/organizations/%s/datasets/",APIURL, ORGANIZATIONID))
-  cat("Liste des datasets\n")
+  cat("Liste des datasets de l'organisation : \n")
   invisible(lapply(content(ispf)$data, FUN <- function(x) { cat(sprintf("%s \n",x$title))  }))
   ispf
 }
+
+
+DataGouv_GetResource <- function(numTableau, verbose=FALSE){
+  DatasetID <- Tableaux[numTableau,DatasetID]
+  ResourceID <- Tableaux[numTableau,ResourceID]
+  
+  cat(sprintf("Récupération sur Data.gouv.fr\nRessource\t:%s\nDataset  \t:%s\n",
+              ResourceID, DatasetID ))
+  
+  if (verbose)
+    p <- GET(
+      url = sprintf('%s/datasets/%s/resources/%s/',APIURL,DatasetID, ResourceID),
+      add_headers("X-Api-Key" = APIKEY),
+      verbose())
+  else
+    p <- GET(
+      url = sprintf('%s/datasets/%s/resources/%s/',APIURL,DatasetID, ResourceID),
+      config=list(type="main"),
+      add_headers("X-Api-Key" = APIKEY))
+  
+  
+  if (p$status_code==200){
+    df <- fread(content(p)$url, dec = ",")
+  }
+  else{
+    df <- NA
+  }
+  df
+}
+
 
 DataGouv_UpdateResource <- function(numTableau, verbose=FALSE){
   DatasetID <- Tableaux[numTableau,DatasetID]
@@ -48,6 +82,9 @@ DataGouv_UpdateMetaData <- function(numTableau, cle, valeur, verbose=FALSE){
   file <- paste0("files/",Tableaux[numTableau,FileName])
   l <- list(cle=valeur)
   names(l) <- cle
+  
+  cat(sprintf("Mise à jour de la métadata sur Data.gouv.fr\nRessource\t:%s\nDataset  \t:%s\n",
+              ResourceID, DatasetID))
   
   if (verbose)
     p <- PUT(

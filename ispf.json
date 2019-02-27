@@ -1,0 +1,519 @@
+{
+  "data": [
+    {
+      "acronym": {},
+      "badges": [],
+      "created_at": ["2019-02-22T20:04:39.175000"],
+      "deleted": {},
+      "description": ["A quoi sert le recensement ? A établir les populations légales.\n\n**Les populations légales**\nDe nombreux articles de codes ou réglementaires font référence à la population légale, c’est-à-dire au nombre d’habitants. Au niveau communal, la population légale a différentes conséquences :\n\n- le nombre de conseillers municipaux est fixé selon la tranche de taille de population à laquelle appartient la commune. En 2008, lors des  dernières élections municipales, le nombre de conseillers élus par commune a été défini sur la base des populations légales communales issues du recensement de 2007 ; \n- les indemnités des maires et de leurs adjoints sont établies en fonction de la taille en nombre d’habitants de la commune ;\n- la dotation de fonctionnement d’une commune est calculée à partir de sa population légale.\n\n\n**Le recensement est quinquennal depuis 2007 :**\nLa loi relative à la démocratie de proximité du 27 février 2002 a, dans ses articles consacrés au recensement de la population, instauré des recensements de la population tous les cinq ans en Polynésie française, ce qui n’était pas le cas auparavant ; les précédents recensements ont eu lieu en 1983, 1988, 1996 et 2002.\n\nLe décret n° 2012-636 du 3 mai 2012 paru au JORF n° 0106 du 5 mai 2012 (page 7976) organise le recensement 2012.\n\n**Mieux connaître la population de Polynésie française**\nLes pouvoirs publics et les collectivités utilisent les résultats du recensement pour déterminer les besoins dans différents domaines :\n- santé : implantation des unités de soins, de pharmaciens, équipement des dispensaires…\n- formation et emploi : construction de nouveaux établissements scolaires, équipements scolaires, aide à la formation des jeunes...\n- aménagement du territoire : construction de logements sociaux, résorption de l’habitat insalubre et rénovation de l’habitat ancien, équipements collectifs sociaux, culturels, sportifs…\n- aide aux familles : détermination des aides en fonction de la composition des ménages et de leurs conditions de vie.\nLes entreprises trouvent dans les statistiques issues du recensement les informations utiles à des études de marché pour installer des locaux et des activités, organiser un réseau commercial, orienter leur offre en fonction de l’évolution de la composition des ménages ou de leurs modes de vie.\n\nDe nombreux autres utilisateurs ont besoin de données sur la population dans le cadre de leur travail ou de leurs études : élus, syndicalistes, associations, chercheurs en sciences sociales, étudiants, simples particuliers.\n\n**Le recensement est confidentiel et obligatoire**\nPour établir le chiffre de la population légale, tout le monde doit être compté. C'est en vertu de la loi du 7 juin 1951 modifiée sur l'obligation, la coordination et le secret en matière de statistiques que le recensement est obligatoire.\n"],
+      "extras": {},
+      "frequency": ["quinquennial"],
+      "frequency_date": ["2024-02-22T09:03:18"],
+      "id": ["5c7047c7634f415b2f29ac53"],
+      "last_modified": ["2019-02-22T20:36:25.382000"],
+      "last_update": ["2019-02-22T20:04:47"],
+      "license": ["notspecified"],
+      "metrics": {
+        "discussions": [0],
+        "followers": [0],
+        "issues": [0],
+        "reuses": [0],
+        "views": [0]
+      },
+      "organization": {
+        "acronym": ["ISPF"],
+        "class": ["Organization"],
+        "id": ["56a29970c751df2a1cade714"],
+        "logo": ["https://static.data.gouv.fr/avatars/8e/ef397b5eba4e32947417fde6f35d84-original.png"],
+        "logo_thumbnail": ["https://static.data.gouv.fr/avatars/8e/ef397b5eba4e32947417fde6f35d84-100.png"],
+        "name": ["Institut de la statistique de la Polynésie française"],
+        "page": ["https://www.data.gouv.fr/fr/organizations/institut-de-la-statistique-de-la-polynesie-francaise/"],
+        "slug": ["institut-de-la-statistique-de-la-polynesie-francaise"],
+        "uri": ["https://www.data.gouv.fr/api/1/organizations/institut-de-la-statistique-de-la-polynesie-francaise/"]
+      },
+      "owner": {},
+      "page": ["https://www.data.gouv.fr/fr/datasets/recensement-general-de-la-population-en-polynesie-francaise/"],
+      "private": [false],
+      "resources": [
+        {
+          "checksum": {
+            "type": ["sha1"],
+            "value": ["e448853e14f12d590d24aa03290932d2cb830844"]
+          },
+          "created_at": ["2019-02-22T20:04:47.173000"],
+          "description": ["Recensement de la population de Polynésie française 2012"],
+          "extras": {},
+          "filesize": [35849],
+          "filetype": ["file"],
+          "format": ["csv"],
+          "id": ["3afae318-5d0b-4485-a165-5fe4818c912d"],
+          "last_modified": ["2019-02-22T20:36:25.382000"],
+          "latest": ["https://www.data.gouv.fr/fr/datasets/r/3afae318-5d0b-4485-a165-5fe4818c912d"],
+          "metrics": {
+            "views": [0]
+          },
+          "mime": ["text/csv"],
+          "preview_url": ["/tabular/preview/?url=https%3A%2F%2Fstatic.data.gouv.fr%2Fresources%2Frecensement-general-de-la-population-en-polynesie-francaise%2F20190222-200447%2Frecensement-2012-0009.csv"],
+          "published": ["2019-02-22T20:04:47"],
+          "title": ["Recensement de la population de Polynésie française 2012"],
+          "type": ["main"],
+          "url": ["https://static.data.gouv.fr/resources/recensement-general-de-la-population-en-polynesie-francaise/20190222-200447/recensement-2012-0009.csv"]
+        }
+      ],
+      "slug": ["recensement-general-de-la-population-en-polynesie-francaise"],
+      "spatial": {},
+      "tags": [
+        ["ispf"],
+        ["polynesie-francaise"],
+        ["population"],
+        ["recensement"]
+      ],
+      "temporal_coverage": {},
+      "title": ["Recensement général de la population en Polynésie française"],
+      "uri": ["https://www.data.gouv.fr/api/1/datasets/recensement-general-de-la-population-en-polynesie-francaise/"]
+    },
+    {
+      "acronym": {},
+      "badges": [],
+      "created_at": ["2019-02-22T19:58:39.011000"],
+      "deleted": {},
+      "description": ["L'évolution de la population active occupée peut être approchée à partir de 3 sources\n\n**L'emploi salarié déclaré au Régime Général des Salariés (RGS) à la Caisse de Prévoyance Sociale(CPS).**\nUn salarié peut exercer plusieurs emplois salariés pour une même période.\nLa base des emplois salariés de la CPS est mise à jour mensuellement et traitée par l'ISPF. Le délai d'officialisation (de 1 à 3 mois) de ces données dépend des dérogations accordées par la CPS (Activité des services domestiques, emploi dans les archipels éloignés,…).\nA partir de cette base CPS, l'institut calcule mensuellement des estimations avancées de l'emploi salarié dans le secteur marchand (Industrie, construction, commerce, hôtellerie-restauration et services).\n     \n**L'emploi des non salariés ou patentés enregistrés au Régime des Non Salariés (RNS) de la CPS.**\nLes effectifs sont présentés par grands secteurs d'activité, par sexe et par âge. Les données sont mises à jour annuellement (Juin).\n     \n**L'emploi des personnels d'Etat communiqué par le Haut Commissariat de la République en Polynésie Française.**\nCes effectifs sont répartis entre ceux des Forces armées et le personnel civil et sont mis à jour annuellement (Juin).\n"],
+      "extras": {},
+      "frequency": ["monthly"],
+      "frequency_date": ["2019-03-22T08:57:27"],
+      "id": ["5c70465f634f415791f4b236"],
+      "last_modified": ["2019-02-22T20:36:47.540000"],
+      "last_update": ["2019-02-22T19:58:51"],
+      "license": ["notspecified"],
+      "metrics": {
+        "discussions": [0],
+        "followers": [0],
+        "issues": [0],
+        "reuses": [0],
+        "views": [0]
+      },
+      "organization": {
+        "acronym": ["ISPF"],
+        "class": ["Organization"],
+        "id": ["56a29970c751df2a1cade714"],
+        "logo": ["https://static.data.gouv.fr/avatars/8e/ef397b5eba4e32947417fde6f35d84-original.png"],
+        "logo_thumbnail": ["https://static.data.gouv.fr/avatars/8e/ef397b5eba4e32947417fde6f35d84-100.png"],
+        "name": ["Institut de la statistique de la Polynésie française"],
+        "page": ["https://www.data.gouv.fr/fr/organizations/institut-de-la-statistique-de-la-polynesie-francaise/"],
+        "slug": ["institut-de-la-statistique-de-la-polynesie-francaise"],
+        "uri": ["https://www.data.gouv.fr/api/1/organizations/institut-de-la-statistique-de-la-polynesie-francaise/"]
+      },
+      "owner": {},
+      "page": ["https://www.data.gouv.fr/fr/datasets/emploi-salarie-en-polynesie-francaise-declares-a-la-cps/"],
+      "private": [false],
+      "resources": [
+        {
+          "checksum": {
+            "type": ["sha1"],
+            "value": ["a42dd0387a9c52bc9ff839faca9cb6d8dad2ba37"]
+          },
+          "created_at": ["2019-02-22T19:58:51.284000"],
+          "description": {},
+          "extras": {},
+          "filesize": [3161763],
+          "filetype": ["file"],
+          "format": ["csv"],
+          "id": ["ef929e4d-41d7-4c0d-b916-161aedf24481"],
+          "last_modified": ["2019-02-22T20:36:47.540000"],
+          "latest": ["https://www.data.gouv.fr/fr/datasets/r/ef929e4d-41d7-4c0d-b916-161aedf24481"],
+          "metrics": {
+            "views": [0]
+          },
+          "mime": ["text/csv"],
+          "preview_url": ["/tabular/preview/?url=https%3A%2F%2Fstatic.data.gouv.fr%2Fresources%2Femploi-salarie-en-polynesie-francaise-declares-a-la-cps%2F20190222-195851%2Femploi-salaries-0008.csv"],
+          "published": ["2019-02-22T19:58:51"],
+          "title": ["Emploi salarié en Polynésie française déclarés à la CPS"],
+          "type": ["main"],
+          "url": ["https://static.data.gouv.fr/resources/emploi-salarie-en-polynesie-francaise-declares-a-la-cps/20190222-195851/emploi-salaries-0008.csv"]
+        }
+      ],
+      "slug": ["emploi-salarie-en-polynesie-francaise-declares-a-la-cps"],
+      "spatial": {},
+      "tags": [
+        ["cps"],
+        ["emploi"],
+        ["polynesie-francaise"],
+        ["tahiti"]
+      ],
+      "temporal_coverage": {},
+      "title": ["Emploi salarié en Polynésie française déclarés à la CPS"],
+      "uri": ["https://www.data.gouv.fr/api/1/datasets/emploi-salarie-en-polynesie-francaise-declares-a-la-cps/"]
+    },
+    {
+      "acronym": ["EBF"],
+      "badges": [],
+      "created_at": ["2019-02-22T03:13:30.471000"],
+      "deleted": {},
+      "description": ["Le mode de vie, les comportements de consommation des familles polynésiennes évoluent avec le temps. Bien comprendre les modes de consommation des jeunes ménages ou des plus anciens permet aux décideurs publics de mieux répondre aux attentes des uns et des autres. Il faut mesurer l’ampleur des changements et prendre en compte les spécificités propres à chaque archipel de la Polynésie française. L’Etude Budget des Familles est le meilleur instrument pour mesurer les comportements de consommation et leurs évolutions. L’ISPF réalise cette enquête auprès de 3 792 familles dans l’ensemble des archipels durant une année. Avec les réponses des ménages enquêtés, on pourra :\n-  Évaluer les dépenses et ressources des familles de Polynésie ;\n-  Connaître la ventilation des dépenses selon les différents postes budgétaires ; \n-  Observer l’évolution des habitudes de consommation des ménages depuis la dernière enquête réalisée il y a déjà 15 ans ;\n-  Comparer les comportements de consommation entre les différents archipels ; \n-  Quantifier la consommation non marchande et les échanges entre familles.\n\n"],
+      "extras": {},
+      "frequency": ["quinquennial"],
+      "frequency_date": ["2024-02-22T09:52:40"],
+      "id": ["5c6f5aca634f413183559350"],
+      "last_modified": ["2019-02-22T20:53:29.164000"],
+      "last_update": ["2019-02-22T03:13:39"],
+      "license": ["notspecified"],
+      "metrics": {
+        "discussions": [0],
+        "followers": [0],
+        "issues": [0],
+        "reuses": [0],
+        "views": [1]
+      },
+      "organization": {
+        "acronym": ["ISPF"],
+        "class": ["Organization"],
+        "id": ["56a29970c751df2a1cade714"],
+        "logo": ["https://static.data.gouv.fr/avatars/8e/ef397b5eba4e32947417fde6f35d84-original.png"],
+        "logo_thumbnail": ["https://static.data.gouv.fr/avatars/8e/ef397b5eba4e32947417fde6f35d84-100.png"],
+        "name": ["Institut de la statistique de la Polynésie française"],
+        "page": ["https://www.data.gouv.fr/fr/organizations/institut-de-la-statistique-de-la-polynesie-francaise/"],
+        "slug": ["institut-de-la-statistique-de-la-polynesie-francaise"],
+        "uri": ["https://www.data.gouv.fr/api/1/organizations/institut-de-la-statistique-de-la-polynesie-francaise/"]
+      },
+      "owner": {},
+      "page": ["https://www.data.gouv.fr/fr/datasets/budget-des-familles-2015-en-polynesie-francaise/"],
+      "private": [false],
+      "resources": [
+        {
+          "checksum": {
+            "type": ["sha1"],
+            "value": ["f6ea0e3f1918df466eece69a07f49c2e06c3d9f8"]
+          },
+          "created_at": ["2019-02-22T03:13:39.282000"],
+          "description": {},
+          "extras": {},
+          "filesize": [1031651],
+          "filetype": ["file"],
+          "format": ["csv"],
+          "id": ["7257a67b-5877-4269-8048-9af300eff14e"],
+          "last_modified": ["2019-02-22T20:37:04.219000"],
+          "latest": ["https://www.data.gouv.fr/fr/datasets/r/7257a67b-5877-4269-8048-9af300eff14e"],
+          "metrics": {
+            "views": [0]
+          },
+          "mime": ["text/csv"],
+          "preview_url": ["/tabular/preview/?url=https%3A%2F%2Fstatic.data.gouv.fr%2Fresources%2Fbudget-des-familles-2015%2F20190222-031339%2Fbudget-des-familles-bdf-0010.csv"],
+          "published": ["2019-02-22T03:13:39"],
+          "title": ["Budget des familles 2015 en Polynésie française"],
+          "type": ["main"],
+          "url": ["https://static.data.gouv.fr/resources/budget-des-familles-2015/20190222-031339/budget-des-familles-bdf-0010.csv"]
+        }
+      ],
+      "slug": ["budget-des-familles-2015-en-polynesie-francaise"],
+      "spatial": {},
+      "tags": [
+        ["budget"],
+        ["consommation"],
+        ["enquete-publique"],
+        ["ispf"],
+        ["polynesie-francaise"],
+        ["tahiti"]
+      ],
+      "temporal_coverage": {
+        "end": ["2015-12-31"],
+        "start": ["2015-01-01"]
+      },
+      "title": ["Budget des familles 2015 en Polynésie française"],
+      "uri": ["https://www.data.gouv.fr/api/1/datasets/budget-des-familles-2015-en-polynesie-francaise/"]
+    },
+    {
+      "acronym": ["Comext"],
+      "badges": [],
+      "created_at": ["2019-02-22T03:08:07.569000"],
+      "deleted": {},
+      "description": ["L'ISPF retraite les données fournies par les services douaniers pour en tirer des indicateurs d'échanges de marchandises avec les autres pays.\nLa statistique du commerce extérieur donne la représentation du trafic transfrontalier des marchandises. Elle permet d’analyser les flux de marchandises, en importations comme en exportations. On entend par marchandises, tous les biens qui contribuent à accroître ou à diminuer le stock des ressources matérielles du pays.\nSystème du commerce extérieur\n\nEn Polynésie française, les données du commerce extérieur sont diffusées selon le système du commerce spécial :\n\nLes importations comprennent les marchandises entrées directement pour la consommation (y compris les réparations et les transformations) et les marchandises sorties des entrepôts douaniers ou en admission temporaire pour être mises à la consommation.\n\nLes exportations comprennent les exportations de produits locaux, c'est-à-dire les marchandises entièrement ou partiellement produites ou fabriquées dans le pays, ainsi que les exportations nationalisées (les importations réexportées en l’état).\n\nSont exclus des statistiques du commerce extérieur polynésien :\n\nLes marchandises stockées dans les entrepôts douaniers\nLes admissions temporaires\nLes réexportations de marchandises non transformées des entrepôts douaniers\nLe transit direct\nLe trafic voyageur\nLes colis et envois postaux sous franchise\n"],
+      "extras": {},
+      "frequency": ["monthly"],
+      "frequency_date": ["2019-03-21T16:07:00"],
+      "id": ["5c6f5987634f41317c8a0f14"],
+      "last_modified": ["2019-02-27T03:52:59.250000"],
+      "last_update": ["2019-02-22T19:55:02"],
+      "license": ["notspecified"],
+      "metrics": {
+        "discussions": [0],
+        "followers": [0],
+        "issues": [0],
+        "reuses": [0],
+        "views": [1]
+      },
+      "organization": {
+        "acronym": ["ISPF"],
+        "class": ["Organization"],
+        "id": ["56a29970c751df2a1cade714"],
+        "logo": ["https://static.data.gouv.fr/avatars/8e/ef397b5eba4e32947417fde6f35d84-original.png"],
+        "logo_thumbnail": ["https://static.data.gouv.fr/avatars/8e/ef397b5eba4e32947417fde6f35d84-100.png"],
+        "name": ["Institut de la statistique de la Polynésie française"],
+        "page": ["https://www.data.gouv.fr/fr/organizations/institut-de-la-statistique-de-la-polynesie-francaise/"],
+        "slug": ["institut-de-la-statistique-de-la-polynesie-francaise"],
+        "uri": ["https://www.data.gouv.fr/api/1/organizations/institut-de-la-statistique-de-la-polynesie-francaise/"]
+      },
+      "owner": {},
+      "page": ["https://www.data.gouv.fr/fr/datasets/commerce-exterieur-en-polynesie-francaise/"],
+      "private": [false],
+      "resources": [
+        {
+          "checksum": {
+            "type": ["sha1"],
+            "value": ["b97748e6f3b3d32c7b15b09544709572421ee7dd"]
+          },
+          "created_at": ["2019-02-22T19:55:02.734000"],
+          "description": ["Importations de la Polynésie française"],
+          "extras": {},
+          "filesize": [4107798],
+          "filetype": ["file"],
+          "format": ["zip"],
+          "id": ["a2b00118-246f-40f0-a73b-778d8a6f82bd"],
+          "last_modified": ["2019-02-26T02:49:11.270000"],
+          "latest": ["https://www.data.gouv.fr/fr/datasets/r/a2b00118-246f-40f0-a73b-778d8a6f82bd"],
+          "metrics": {
+            "views": [0]
+          },
+          "mime": ["application/zip"],
+          "preview_url": {},
+          "published": ["2019-02-22T19:55:02"],
+          "title": ["Importations en Polynésie française - 2018"],
+          "type": ["main"],
+          "url": ["https://static.data.gouv.fr/resources/commerce-exterieur/20190222-195502/commerce-exterieur-importations-0006.zip"]
+        },
+        {
+          "checksum": {
+            "type": ["sha1"],
+            "value": ["52494f451f297e7469b423ca398bc10ae7df5990"]
+          },
+          "created_at": ["2019-02-22T03:08:15.939000"],
+          "description": ["Exportations 2018 de la Polynésie française"],
+          "extras": {},
+          "filesize": [382572],
+          "filetype": ["file"],
+          "format": ["csv"],
+          "id": ["389b419c-24ad-4fcf-b5c8-0a9c5ddbd548"],
+          "last_modified": ["2019-02-27T03:52:59.250000"],
+          "latest": ["https://www.data.gouv.fr/fr/datasets/r/389b419c-24ad-4fcf-b5c8-0a9c5ddbd548"],
+          "metrics": {
+            "views": [0]
+          },
+          "mime": ["text/csv"],
+          "preview_url": ["/tabular/preview/?url=https%3A%2F%2Fstatic.data.gouv.fr%2Fresources%2Fcommerce-exterieur-en-polynesie-francaise%2F20190227-035254%2Fcommerce-exterieur-exportations-0007.csv"],
+          "published": ["2019-02-22T03:08:15"],
+          "title": ["Exportations en Polynésie française - 2018"],
+          "type": ["main"],
+          "url": ["https://static.data.gouv.fr/resources/commerce-exterieur-en-polynesie-francaise/20190227-035254/commerce-exterieur-exportations-0007.csv"]
+        }
+      ],
+      "slug": ["commerce-exterieur-en-polynesie-francaise"],
+      "spatial": {},
+      "tags": [
+        ["commerce-exterieur"],
+        ["douanes"],
+        ["exportations"],
+        ["importations"]
+      ],
+      "temporal_coverage": {},
+      "title": ["Commerce exterieur en Polynésie française"],
+      "uri": ["https://www.data.gouv.fr/api/1/datasets/commerce-exterieur-en-polynesie-francaise/"]
+    },
+    {
+      "acronym": {},
+      "badges": [],
+      "created_at": ["2019-02-21T23:12:47.884000"],
+      "deleted": {},
+      "description": ["Le tourisme est la principale ressource propre de la Polynésie française.\n\nC'est un secteur peu diversifié : les cinq pays d’origine (USA, Japon, France, Italie, Australie) représentent plus de 80 % de la clientèle.\nL'essentiel des nuitées provient de l’hébergement en hôtel ou en pension. Malgré une satisfaction globalement positive exprimée par les touristes pour la Polynésie française, la destination est pénalisée par le fait que les touristes ne reviennent pas en général.\n"],
+      "extras": {},
+      "frequency": ["monthly"],
+      "frequency_date": ["2019-03-21T12:11:07"],
+      "id": ["5c6f225f634f411aca138430"],
+      "last_modified": ["2019-02-26T01:52:40.413000"],
+      "last_update": ["2019-02-22T20:06:16"],
+      "license": ["notspecified"],
+      "metrics": {
+        "discussions": [0],
+        "followers": [0],
+        "issues": [0],
+        "reuses": [0],
+        "views": [4]
+      },
+      "organization": {
+        "acronym": ["ISPF"],
+        "class": ["Organization"],
+        "id": ["56a29970c751df2a1cade714"],
+        "logo": ["https://static.data.gouv.fr/avatars/8e/ef397b5eba4e32947417fde6f35d84-original.png"],
+        "logo_thumbnail": ["https://static.data.gouv.fr/avatars/8e/ef397b5eba4e32947417fde6f35d84-100.png"],
+        "name": ["Institut de la statistique de la Polynésie française"],
+        "page": ["https://www.data.gouv.fr/fr/organizations/institut-de-la-statistique-de-la-polynesie-francaise/"],
+        "slug": ["institut-de-la-statistique-de-la-polynesie-francaise"],
+        "uri": ["https://www.data.gouv.fr/api/1/organizations/institut-de-la-statistique-de-la-polynesie-francaise/"]
+      },
+      "owner": {},
+      "page": ["https://www.data.gouv.fr/fr/datasets/tourisme-en-polynesie-francaise/"],
+      "private": [false],
+      "resources": [
+        {
+          "checksum": {
+            "type": ["sha1"],
+            "value": ["7ca1ace6afccfcd403aeab52c4ff6afa2d3167bd"]
+          },
+          "created_at": ["2019-02-22T03:23:38.320000"],
+          "description": ["Chiffres clés"],
+          "extras": {},
+          "filesize": [734],
+          "filetype": ["file"],
+          "format": ["csv"],
+          "id": ["23cf4c37-9f31-47b6-b541-7b6dca71896a"],
+          "last_modified": ["2019-02-26T01:38:23.200000"],
+          "latest": ["https://www.data.gouv.fr/fr/datasets/r/23cf4c37-9f31-47b6-b541-7b6dca71896a"],
+          "metrics": {
+            "views": [0]
+          },
+          "mime": ["text/csv"],
+          "preview_url": ["/tabular/preview/?url=https%3A%2F%2Fstatic.data.gouv.fr%2Fresources%2Ftourisme-en-polynesie-francaise%2F20190226-013757%2Ftourisme-chiffres-cles-0001.csv"],
+          "published": ["2019-02-22T03:23:38"],
+          "title": ["Chiffres cles"],
+          "type": ["main"],
+          "url": ["https://static.data.gouv.fr/resources/tourisme-en-polynesie-francaise/20190226-013757/tourisme-chiffres-cles-0001.csv"]
+        },
+        {
+          "checksum": {
+            "type": ["sha1"],
+            "value": ["0448dc5038aad5fdbe71855fc3bcd3e26bdd0468"]
+          },
+          "created_at": ["2019-02-21T23:13:28.248000"],
+          "description": ["Une série simple des touristes en Polynésie française (en nombre par mois, en corrigé des variations saisonnières ainsi qu'en cumul annuel)"],
+          "extras": {},
+          "filesize": [12036],
+          "filetype": ["file"],
+          "format": ["csv"],
+          "id": ["1b32859d-e7e7-4f35-9054-2607840585b1"],
+          "last_modified": ["2019-02-22T20:14:01.140000"],
+          "latest": ["https://www.data.gouv.fr/fr/datasets/r/1b32859d-e7e7-4f35-9054-2607840585b1"],
+          "metrics": {
+            "views": [0]
+          },
+          "mime": ["text/csv"],
+          "preview_url": ["/tabular/preview/?url=https%3A%2F%2Fstatic.data.gouv.fr%2Fresources%2Ftourisme-3%2F20190221-231328%2Fispf-eft-touristes-mensuels.csv"],
+          "published": ["2019-02-21T23:13:28"],
+          "title": ["Série du nombre de touristes mensuels"],
+          "type": ["main"],
+          "url": ["https://static.data.gouv.fr/resources/tourisme-3/20190221-231328/ispf-eft-touristes-mensuels.csv"]
+        },
+        {
+          "checksum": {
+            "type": ["sha1"],
+            "value": ["f8efd79b321c81b987cc001ece63fadcd2b35433"]
+          },
+          "created_at": ["2019-02-22T03:25:03.810000"],
+          "description": ["L’enquête de fréquentation touristique a été réalisée par le Service du tourisme jusqu’en 2006. L’I.S.P.F. en a la charge depuis 2007. Cette opération est réalisée tous le mois avec le concours des compagnies aériennes. \n\nLes données sont collectées dans tous les vols arrivant en Polynésie française, sans exception ; tous les voyageurs sont interrogés, qu’ils soient touristes ou résidents. Les informations obtenues portent sur les caractéristiques des voyageurs et de leur séjour.\n![Fiche visiteur](http://www.ispf.pf/sf-images/default-source/icons/fiche-touriste-2015-specimen.jpg?sfvrsn=0http:// \"entrez le titre de l'image ici\")"],
+          "extras": {},
+          "filesize": [4748198],
+          "filetype": ["file"],
+          "format": ["zip"],
+          "id": ["b28eb1a5-574a-4368-8ed8-8eb3fd724c41"],
+          "last_modified": ["2019-02-22T20:35:43.572000"],
+          "latest": ["https://www.data.gouv.fr/fr/datasets/r/b28eb1a5-574a-4368-8ed8-8eb3fd724c41"],
+          "metrics": {
+            "views": [0]
+          },
+          "mime": ["application/zip"],
+          "preview_url": {},
+          "published": ["2019-02-22T03:25:03"],
+          "title": ["Enquête de fréquentation touristique (ZIP)"],
+          "type": ["main"],
+          "url": ["https://static.data.gouv.fr/resources/tourisme-en-polynesie-francaise/20190222-032503/tourisme-frequentation-touristique-0002.zip"]
+        },
+        {
+          "checksum": {
+            "type": ["sha1"],
+            "value": ["60cd4b2dbab6822afffb0997959f4441f695b17a"]
+          },
+          "created_at": ["2019-02-22T20:06:16.192000"],
+          "description": ["**Enquête de satisfaction  touristique**\n\nA la demande du « Tourism Council of the South Pacific » (TCSP), l’ISPF a réalisé, au cours des mois de décembre 1997 et janvier 1998, la première « Enquête de Satisfaction » auprès des touristes internationaux ayant visité la Polynésie française. Cette enquête est effectuée aux frontières, à l’aéroport international de Tahiti-Faaa, au départ des touristes du territoire tous les deux ans depuis 2002.\n\n\nLe premier objectif de cette enquête est de mesurer le degré de satisfaction ou d’insatisfaction des touristes, ainsi que de mieux connaître les produits touristiques consommés, notamment en terme de services culturels et récréatifs."],
+          "extras": {},
+          "filesize": [132],
+          "filetype": ["file"],
+          "format": ["csv"],
+          "id": ["e0ba5d8b-db4f-4bef-9512-b5e1987abaf1"],
+          "last_modified": ["2019-02-22T20:34:55.111000"],
+          "latest": ["https://www.data.gouv.fr/fr/datasets/r/e0ba5d8b-db4f-4bef-9512-b5e1987abaf1"],
+          "metrics": {
+            "views": [0]
+          },
+          "mime": ["text/csv"],
+          "preview_url": ["/tabular/preview/?url=https%3A%2F%2Fstatic.data.gouv.fr%2Fresources%2Ftourisme-en-polynesie-francaise%2F20190222-200616%2Ftourisme-satisfation-touristique-0004.csv"],
+          "published": ["2019-02-22T20:06:16"],
+          "title": ["Enquête de satisfaction touristique"],
+          "type": ["main"],
+          "url": ["https://static.data.gouv.fr/resources/tourisme-en-polynesie-francaise/20190222-200616/tourisme-satisfation-touristique-0004.csv"]
+        },
+        {
+          "checksum": {
+            "type": ["sha1"],
+            "value": ["a58309b090d9caa6e86578c63f44040eb063b9ce"]
+          },
+          "created_at": ["2019-02-22T19:53:53.067000"],
+          "description": ["**Enquête de fréquentation hôtelière**\n\nL’enquête de fréquentation hôtelière a été réalisée par l’ISPF pour la première fois en 2006. Elle concerne l’ensemble des hôtels dits « classés » de la Polynésie française.\n\nCette enquête mensuelle a pour vocation de compléter les indicateurs de suivi du tourisme en Polynésie française.\n\nElle fournit des informations sur la capacité de l’hôtellerie internationale et divers indicateurs de gestion tels le revenu moyen par chambre vendue et le revenu moyen par chambre disponible. En outre, elle permet une meilleure lisibilité du secteur, ainsi que des comparaisons locales ou internationales.\n\n\nElle fournit des informations sur la capacité de l’hôtellerie internationale et divers indicateurs de gestion tels que le revenu moyen par chambre vendue et le revenu moyen par chambre disponible. En outre, elle permet  une meilleure lisibilité du secteur, ainsi que des comparaisons locales ou internationales."],
+          "extras": {},
+          "filesize": [160722],
+          "filetype": ["file"],
+          "format": ["csv"],
+          "id": ["068b6739-a43a-436f-819e-2015e24c4c8e"],
+          "last_modified": ["2019-02-22T20:35:05.294000"],
+          "latest": ["https://www.data.gouv.fr/fr/datasets/r/068b6739-a43a-436f-819e-2015e24c4c8e"],
+          "metrics": {
+            "views": [0]
+          },
+          "mime": ["text/csv"],
+          "preview_url": ["/tabular/preview/?url=https%3A%2F%2Fstatic.data.gouv.fr%2Fresources%2Ftourisme-en-polynesie-francaise%2F20190222-195353%2Ftourisme-frequentation-hotelliere-0005.csv"],
+          "published": ["2019-02-22T19:53:53"],
+          "title": ["Enquête de fréquentation hôtelière"],
+          "type": ["main"],
+          "url": ["https://static.data.gouv.fr/resources/tourisme-en-polynesie-francaise/20190222-195353/tourisme-frequentation-hotelliere-0005.csv"]
+        },
+        {
+          "checksum": {
+            "type": ["sha1"],
+            "value": ["e199fc6834cf9c12780d13ea51cadc1e6bb8c1a6"]
+          },
+          "created_at": ["2019-02-22T19:53:14.395000"],
+          "description": ["**Enquête de dépenses touristiques**\n\nL’Enquête sur les Dépenses Touristiques a été réalisée par l’ISPF pour la première fois en 1995. Cette opération est réalisée régulièrement tous les deux ans en alternance avec l’enquête de satisfaction touristique.\n\n\nLe premier objectif de cette enquête est de mesurer les flux financiers liés au tourisme entre le territoire et l’extérieur, tant en terme d’entrées que de sorties de devises. La connaissance de ces flux est impérative pour permettre à l’Institut d’Emission d’Outre-Mer (IEOM) de construire la balance des paiements de la Polynésie française, conformément aux nouvelles directives statistiques européennes."],
+          "extras": {},
+          "filesize": [6929958],
+          "filetype": ["file"],
+          "format": ["csv"],
+          "id": ["9f471caa-c649-43f9-a186-207641f1c59d"],
+          "last_modified": ["2019-02-26T01:52:40.413000"],
+          "latest": ["https://www.data.gouv.fr/fr/datasets/r/9f471caa-c649-43f9-a186-207641f1c59d"],
+          "metrics": {
+            "views": [0]
+          },
+          "mime": ["text/csv"],
+          "preview_url": ["/tabular/preview/?url=https%3A%2F%2Fstatic.data.gouv.fr%2Fresources%2Ftourisme-en-polynesie-francaise%2F20190226-013921%2Ftourisme-depenses-touristiques-0003.csv"],
+          "published": ["2019-02-22T19:53:14"],
+          "title": ["Enquête de dépenses touristiques"],
+          "type": ["main"],
+          "url": ["https://static.data.gouv.fr/resources/tourisme-en-polynesie-francaise/20190226-013921/tourisme-depenses-touristiques-0003.csv"]
+        }
+      ],
+      "slug": ["tourisme-en-polynesie-francaise"],
+      "spatial": {},
+      "tags": [
+        ["ispf"],
+        ["polynesie-francaise"],
+        ["tahiti"],
+        ["tourisme"]
+      ],
+      "temporal_coverage": {},
+      "title": ["Tourisme en Polynésie française"],
+      "uri": ["https://www.data.gouv.fr/api/1/datasets/tourisme-en-polynesie-francaise/"]
+    }
+  ],
+  "facets": {},
+  "next_page": {},
+  "page": [1],
+  "page_size": [20],
+  "previous_page": {},
+  "total": [5]
+}
